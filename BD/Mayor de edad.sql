@@ -1,0 +1,1 @@
+SELECT * FROM padres WHERE edad >= 18

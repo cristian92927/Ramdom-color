@@ -1,0 +1,1 @@
+SELECT nombre from padres where idPadre = 0;
